@@ -1,2 +1,2 @@
-# poisson
-Poisson equation solver on n-dimensional signal
+# Poisson
+Poisson equation solver on `n`-dimensional signal
